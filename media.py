@@ -26,6 +26,7 @@ class Movie():
             movie_params[7] -> duration in minutes
             movie_params[8] -> budget in million dollars
         """
+
         self.title = movie_params[0]
         self.storyline = movie_params[1]
         self.poster_image_url = movie_params[2]
@@ -37,4 +38,5 @@ class Movie():
         self.budget = movie_params[8]
 
     def show_trailer(self):
+        """Open browser and show trailer"""
         webbrowser.open(self.trailer_youtube_url)

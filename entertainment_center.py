@@ -203,5 +203,9 @@ hunger_games_params.append(78)
 hunger_games = media.Movie(hunger_games_params)
 
 
-movies = [toy_story, avatar, dark_city, school_of_rock, ratatouille, midnight_in_paris, hunger_games]
+# Build a list of movie objects
+movies = [toy_story, avatar, dark_city, school_of_rock, ratatouille,
+          midnight_in_paris, hunger_games]
+# Call the function to build a web page with movie information,
+# passing by the list of movie objects
 fresh_tomatoes.open_movies_page(movies)
