@@ -69,7 +69,9 @@ dark_city_params = []
 # Title
 dark_city_params.append("Dark City")
 # Storyline
-dark_city_params.append("A man struggles with memories of his past, including a wife he cannot remember, in a nightmarish world with no sun.")
+dark_city_params.append("A man struggles with memories of his past, including"
+                        " a wife he cannot remember, in a nightmarish world"
+                        " with no sun.")
 # Poster image link
 dark_city_params.append("https://compulsiveozblogger.files.wordpress.com/2013/10/dark_city_brd.jpg?w=650")
 # Trailer youtube link
@@ -95,7 +97,10 @@ school_of_rock_params = []
 # Title
 school_of_rock_params.append("School of Rock")
 # Storyline
-school_of_rock_params.append("After being kicked out of a rock band, Dewey Finn becomes a substitute teacher of a strict elementary private school, only to try and turn it into a rock band.")
+school_of_rock_params.append("After being kicked out of a rock band, Dewey"
+                             " Finn becomes a substitute teacher of a strict"
+                             " elementary private school, only to try and turn"
+                             " it into a rock band.")
 # Poster image link
 school_of_rock_params.append("http://upload.wikimedia.org/wikipedia/en/1/11/School_of_Rock_Poster.jpg")
 # Trailer youtube link
@@ -120,7 +125,8 @@ ratatouille_params = []
 # Title
 ratatouille_params.append("Ratatouille")
 # Storyline
-ratatouille_params.append("A rat who can cook makes an unusual alliance with a young kitchen worker at a famous restaurant.")
+ratatouille_params.append("A rat who can cook makes an unusual alliance with a"
+                          " young kitchen worker at a famous restaurant.")
 # Poster image link
 ratatouille_params.append("http://upload.wikimedia.org/wikipedia/en/5/50/RatatouillePoster.jpg")
 # Trailer youtube link
@@ -145,7 +151,10 @@ midnight_in_paris_params = []
 # Title
 midnight_in_paris_params.append("Midnight in Paris")
 # Storyline
-midnight_in_paris_params.append("While on a trip to Paris with his fiancee's family, a nostalgic screenwriter finds himself mysteriously going back to the 1920s every day at midnight.")
+midnight_in_paris_params.append("While on a trip to Paris with his fiancee's"
+                                " family, a nostalgic screenwriter finds"
+                                " himself mysteriously going back to the 1920s"
+                                " every day at midnight.")
 # Poster image link
 midnight_in_paris_params.append("http://upload.wikimedia.org/wikipedia/en/9/9f/Midnight_in_Paris_Poster.jpg")
 # Trailer youtube link
@@ -170,7 +179,11 @@ hunger_games_params = []
 # Title
 hunger_games_params.append("The Hunger Games")
 # Storyline
-hunger_games_params.append("Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games, a televised competition in which two teenagers from each of the twelve Districts of Panem are chosen at random to fight to the death.")
+hunger_games_params.append("Katniss Everdeen voluntarily takes her younger"
+                           " sister's place in the Hunger Games, a televised"
+                           " competition in which two teenagers from each of"
+                           " the twelve Districts of Panem are chosen at"
+                           " random to fight to the death.")
 # Poster image link
 hunger_games_params.append("http://upload.wikimedia.org/wikipedia/en/4/42/HungerGamesPoster.jpg")
 # Trailer youtube link
